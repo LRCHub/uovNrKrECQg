@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Good Parts",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-18T10:13:51.079402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "Andy Grammer",
+      "has_synced": true,
+      "path": "select/02_The_Good_Parts_Andy_Grammer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "Jp Saxe",
+      "has_synced": true,
+      "path": "select/04_The_Good_Parts_Jp_Saxe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "JP Saxe",
+      "has_synced": true,
+      "path": "select/05_The_Good_Parts_JP_Saxe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/06_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Parts",
+      "artist": "Justin Caruso feat. Mædi",
+      "has_synced": true,
+      "path": "select/07_Good_Parts_Justin_Caruso_feat._Mædi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Parts",
+      "artist": "Justin Caruso",
+      "has_synced": true,
+      "path": "select/08_Good_Parts_Justin_Caruso.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/09_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "good parts",
+      "artist": "le sserafim",
+      "has_synced": true,
+      "path": "select/10_good_parts_le_sserafim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/11_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "THE GOOD PARTS",
+      "artist": "Chelsea Jordan",
+      "has_synced": true,
+      "path": "select/12_THE_GOOD_PARTS_Chelsea_Jordan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "Bailey Rushlow",
+      "has_synced": true,
+      "path": "select/13_The_Good_Parts_Bailey_Rushlow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "Sam DeRosa",
+      "has_synced": true,
+      "path": "select/14_The_Good_Parts_Sam_DeRosa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/15_Good_Parts_(when_the_quality_is_bad_but_I_am)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Good Parts",
+      "artist": "Jetty Bones",
+      "has_synced": true,
+      "path": "select/16_The_Good_Parts_Jetty_Bones.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Parts",
+      "artist": "Justin Caruso, Mædi",
+      "has_synced": true,
+      "path": "select/17_Good_Parts_Justin_Caruso,_Mædi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Parts",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Parts_LANY.txt"
+    }
+  ]
+}
