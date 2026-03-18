@@ -1,0 +1,81 @@
+# LANY – Good Parts
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Say what you wanna say
+You can set a fire to my name
+Talk about all the times
+I made you sad
+And all of my mistakes
+I was there to catch every teardrop
+Falling from your pretty eyes
+You never had to wonder
+where I stood
+I was always one step behind
+And you know I fought for us
+And fought for every night
+There's a reason that our love
+Made it all that time
+'Cause you can't tango alone
+It takes two,
+there's another side
+So, say what you wanna say
+You can set a fire to my name
+Talk about all the times
+I made you sad
+And all of my mistakes
+But I hope every night
+Baby just between you and I
+When you're all alone
+and laying in the dark
+You remember all the good parts
+I don't care to campaign
+for myself
+I don't need to keep
+all your friends
+We don't feel the same
+but come on babe
+Neither one of us are innocent
+There's not a thing
+that I would change
+If I went back again
+There's nothing good
+about goodbyes
+They're never in the plan
+But I will always love you
+And always hate that
+it had to end
+So, say what you wanna say
+You can set a fire to my name
+Talk about all the times
+I made you sad
+And all of my mistakes
+But I hope every night
+Baby just between you and I
+When you're all alone
+and laying in the dark
+You remember all the good parts
+When you're all alone
+and laying in the dark
+You remember all the good parts
+When you're all alone
+and laying in the dark
+You remember all the good parts
+So, say what you wanna say
+You can set a fire to my name
+Talk about all the times
+I made you sad
+And all of my mistakes
+But I hope every night
+Baby just between you and I
+When you're all alone
+and laying in the dark
+You remember all
+When you're all alone
+and laying in the dark
+You remember all
+When you're all alone
+and laying in the dark
+You remember all the good parts
+```
